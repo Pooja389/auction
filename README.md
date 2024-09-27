@@ -36,7 +36,4 @@ This is a simple Python auction program that accepts bids from multiple users an
 
 - The `clear_screen()` function uses the `os.system('cls')` command, which is specific to Windows. If you're using a different operating system, you can modify it to use `os.system('clear')` for Linux or macOS.
 
-## License
-
-This project is licensed under the MIT License.
 
