@@ -16,7 +16,7 @@ while True:
     list_of_bids.append(bid)
     ask = input("are there any other bidders type 'yes' or 'no':")
     if ask == "yes":
-        # calling the function for clearing out the screenauction.py
+        # calling the function for clearing out the screen
         clear_screen()
 
     # if user type 'no' loop ends  
